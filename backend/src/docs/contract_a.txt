@@ -1,0 +1,37 @@
+STOCK (SHARES) PURCHASE AGREEMENT
+I. THE PARTIES. This Stock (Shares) Purchase Agreement (“Agreement”) is dated as of July 15, 2025, and is made and entered into by and between:
+
+Buyer: Mario Industries with a mailing address of 123 Innovation Way, Palo Alto, CA 94301 (“Buyer”), and
+
+Seller: Kupa Hill Corp with a mailing address of 456 Secure Lane, Austin, TX 73301 (“Seller”).
+
+Buyer and Seller are each referred to herein as a “Party” and, collectively, as the “Parties.”
+II. ENTITY.
+Entity Name: Kupa Hill Cyber Defense Inc.
+Entity Mailing Address: 456 Secure Lane, Austin, TX 73301
+State of Incorporation / Organization: Texas
+Entity Type: Corporation
+Hereinafter known as the “Business Entity.”
+III. SHARES. The Buyer agrees to buy and the Seller agrees to sell the following Business Entity:
+Number (#) or Percent (%) of Shares: 100%
+Class / Series: Common
+Hereinafter known as the “Shares.”
+IV. PURCHASE PRICE. The Buyer agrees to purchase the Shares for $500,000,000 (“Purchase Price”) from the Seller. The Purchase Price shall be paid to the Seller on the Closing Date.
+V. CLOSING DATE. The closing shall occur on or before August 1, 2025 (“Closing Date”) at a time and location agreeable by the Parties.
+VI. PAYMENT METHODS. On the Closing Date, the Buyer shall deliver the full amount of the Purchase Price by: Bank Wire
+VII. DEPOSIT. No deposit is required.
+VIII. DUE DILIGENCE PERIOD. Buyer requires a due diligence period. Buyer has until July 25, 2025 at 5:00 PM to notify Seller of its termination of this Agreement.
+IX. DELIVERY. Shares and certificates shall be transferred at Closing Date upon receipt of funds.
+X. AUTHORITY OF SELLER. The Seller affirms full legal ownership of the Shares, and authority to sell them.
+XI. AUTHORITY OF BUYER. The Buyer affirms legal capacity to purchase Shares and understands the investment risks.
+XII. DATE AND TIME. Time is of the essence.
+XIII. GOVERNING LAW. This Agreement shall be governed by the laws of the State of California.
+XIV. COUNTERPARTS. This Agreement may be executed in counterparts.
+XV. ADDITIONAL TERMS & CONDITIONS. Seller agrees to assist Buyer in post-acquisition integration of cybersecurity teams and IP.
+XVI. ENTIRE AGREEMENT. This is the entire agreement between the Parties.
+
+Buyer’s Signature: AAA Date: 17.8.25
+Print Name: Mario Industries
+
+Seller’s Signature: BBB Date: 17.8.25
+Print Name: Kupa Hill Corp

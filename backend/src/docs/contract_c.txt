@@ -1,0 +1,96 @@
+STOCK (SHARES) PURCHASE AGREEMENT
+I. THE PARTIES
+This Stock (Shares) Purchase Agreement (“Agreement”) is dated as of July 17, 2025 (the “Effective Date”), and is made between:
+
+Buyer: Ronny Dio Industries, 789 Synth Lane, Detroit, MI 48201 (“Buyer”).
+
+Seller: Jack Black Hill Corp, 321 Prompt Blvd, San Jose, CA 95112 (“Seller”).
+
+Collectively, the “Parties.”
+
+II. ENTITY
+Entity Name: PromptCraft Inc.
+
+Address: 321 Prompt Blvd, San Jose, CA 95112
+
+State of Incorporation: California
+
+Entity Type: Corporation (the “Business Entity”).
+
+III. SHARES
+Number/Percent: 100%
+
+Class/Series: Series A Preferred (the “Shares”).
+
+IV. PURCHASE PRICE
+Amount: $1,500,000,000 (the “Purchase Price”).
+
+Payment Timing: Paid on the Closing Date.
+
+V. CLOSING DATE
+Closing Date: On or before September 1, 2025 (time/location agreed by Parties).
+
+Long-Stop Date: If closing fails by September 15, 2025 (“Long-Stop Date”), either Party may terminate this Agreement unless extended in writing.
+
+VI. PAYMENT METHOD
+Methods: Bank Wire + Restricted Stock.
+
+VII. DEPOSIT
+Amount: $150,000,000 (refundable only per Section VIII).
+
+Due: Within 5 calendar days of Effective Date.
+
+VIII. DUE DILIGENCE PERIOD
+Deadline: Buyer may terminate by August 10, 2025, 3:00 PM PST (with Deposit refund).
+
+Failure to Terminate: Buyer deemed satisfied with due diligence.
+
+IX. DELIVERY
+Shares transferred upon receipt of full Purchase Price.
+
+X. AUTHORITY OF SELLER
+Seller warrants:
+
+Full legal ownership of Shares.
+
+No liens/encumbrances on Shares.
+
+XI. AUTHORITY OF BUYER
+Buyer warrants:
+
+Legal capacity to purchase.
+
+Acknowledges investment risks.
+
+XII. RISK ALLOCATION
+Regulatory Risk: Buyer assumes risk of regulatory approvals (e.g., antitrust).
+
+Material Adverse Change (MAC): Seller liable for undisclosed MACs pre-Closing.
+
+Indemnification: Seller indemnifies Buyer for breaches of reps/warranties (survival period: 18 months post-Closing).
+
+Third-Party Consents: Seller responsible for obtaining required consents.
+
+XIII. SIGNATURES
+Signing Deadline: Parties must sign by July 24, 2025.
+
+Counterparts: Electronic/digital signatures valid.
+
+XIV. GOVERNING LAW
+Delaware law governs.
+
+XV. ADDITIONAL TERMS
+Merged entity name: PromptDio AI Tools Inc.
+
+XVI. ENTIRE AGREEMENT
+Supersedes all prior agreements.
+
+SIGNATURES
+Buyer:
+Signature: ___________________ Date: ________
+Print Name: Ronny Dio Industries
+
+Seller:
+Signature: ___________________ Date: ________
+Print Name: Jack Black Hill Corp
+
