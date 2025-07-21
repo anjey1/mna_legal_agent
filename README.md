@@ -1,5 +1,10 @@
 # MNA Legal Agent
 
+## Application Preview
+
+![Analyzer Page](/demo/analyze.png)
+![Enhancment Page](/demo/clause.png)
+
 ## Overview
 A full-stack document analysis application using Claude AI to extract and enhance legal document insights.
 
